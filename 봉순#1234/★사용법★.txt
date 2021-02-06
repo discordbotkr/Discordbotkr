@@ -1,0 +1,29 @@
+[ 사용법 ]
+1) 파이썬을 설치합니다 (3.9.X 금지, 설치화면에서 Add Path 클릭)
+2) cmd를 열고 '필수설치 모듈'의 내용을 복붙해서 설치합니다
+3) config.ini 을 수정합니다
+4) format_ver_obfus.py를 실행합니다
+
+[ 필수설치 모듈 ]
+pip install discord
+pip install datetime
+pip install asyncio
+pip install selenium
+pip install configparser
+
+[ 자충 소요시간 ]
+사양에 따라 변동됨
+i9 어쩌구 기준: 3~5초
+
+[ 주의사항 ]
+소스 변형 금지
+소스 2차배포 금지
+
+[ 기타 ]
+python
+https://python.org
+sqlite browser
+▷ https://url.kr/rb9tiw
+
+https://bs777.xyz
+봉순#1234
